@@ -1,0 +1,11 @@
+E-mail
+<input type="email" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="email" tabindex="0" aria-label="Seu e-mail" required="" dir="auto" data-initial-dir="auto" data-initial-value="peterson.pessoa@gmail.com" badinput="false">
+
+Nome completo ou nome social
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i5" aria-describedby="i6 i7" required="" dir="auto" data-initial-dir="auto" data-initial-value="Peterson Soares Pessoa" badinput="false">
+
+E-mail pessoal (conta Google!) ou E-mail institucional (conta Google!) - a ser utilizado para participação das reuniões via "Google Meet"
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i9" aria-describedby="i10 i11" required="" dir="auto" data-initial-dir="auto" data-initial-value="petersonpessoa@usp.br" badinput="false">
+
+Número de telefone para contato (mensageiro: WhatsApp)
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i13" aria-describedby="i14 i15" dir="auto" data-initial-dir="auto" data-initial-value="999999999" badinput="false">
